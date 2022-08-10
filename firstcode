@@ -1,0 +1,5 @@
+class fruits:
+def myfruits(f1,f2):
+fruit=merge(f1,f2)
+print(fruit)
+
